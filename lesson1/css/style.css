@@ -1,0 +1,40 @@
+html {
+	background-color: #00539c;
+}
+
+body {
+	background-color: #ff952c;
+	border: 5px solid black;
+	width: 600px;
+	padding: 5px;
+	margin: 2px auto;
+}
+
+img {
+	display: block;
+	margin: 2px auto;
+	width: auto;
+	height: 350px; 
+}
+
+p {
+	padding: 1em;
+}
+
+h1 {
+	font-size: 60px;
+	text-align: center;
+	color: #00539c;
+	margin: 0;
+	text-shadow: black 3px 3px 1px;
+	padding: 20px 0;
+}
+
+button {
+	margin: 2px 2em 1em auto;
+}
+
+footer {
+	text-align: right;
+}
+
